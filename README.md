@@ -1,12 +1,16 @@
-# Delivery-time-prediction end to end ml project
-1.Create new Environment
-conda create -p env python=3.9 -y 
-it will create the enviroment for the folder
+# Zomoto-delivery-time-prediction-end-to-end-ml-project
 
-2.Activate your environment
+1.Create new Environment
+
+conda create -p env python=3.9 -y 
+it will create the environment for the folder
+
+2. Activate your environment
+   
 conda activate env/ -> CMD
 
-3.source activate env/ -> Git bash
+3. source activate env/ -> Git bash
 
-Install your requriments file
+4. Install your requirements file
+
 pip install -r requirements.txt
