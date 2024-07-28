@@ -1,4 +1,4 @@
-# Zomoto-delivery-time-prediction-end-to-end-ml-project
+# Zomoto Delivery Time Prediction End to End ML Project
 
 1.Create new Environment
 
@@ -13,4 +13,4 @@ conda activate env/ -> CMD
 
 4. Install your requirements file
 
-pip install -r requirements.txt
+!pip install -r requirements.txt
