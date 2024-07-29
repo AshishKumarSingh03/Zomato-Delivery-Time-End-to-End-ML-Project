@@ -3,9 +3,9 @@ from typing import List
 
 PROJECT_NAME = "Machine Learning Project"
 VERSION = "0.0.1"
-DESCRIPTION = "This is our machine learning project in modular coding"
-AUTHOR_NAME = "Ritesh Kumar Gupta"
-AUTHOR_EMAIL = "rkgadalhat@gmail.com"
+DESCRIPTION = "This is machine learning project in modular coding"
+AUTHOR_NAME = "Ashish Kumar Singh"
+AUTHOR_EMAIL = "ashishsingh.chunar2017@gmail.com"
 
 REQUIREMENTS_FILE_NAME = "requirements.txt" # i will use this for further for opening the requirements file
 
