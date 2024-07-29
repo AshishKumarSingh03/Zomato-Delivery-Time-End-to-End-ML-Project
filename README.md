@@ -28,5 +28,9 @@ python3.9 -m venv zomotoenv
 ```bash
 pip install -r requirements.txt
 ```
+### STEP 04- Finally run the following command
+```bash
 
+python app.py
 
+```
