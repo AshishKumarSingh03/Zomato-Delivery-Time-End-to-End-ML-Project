@@ -1,8 +1,5 @@
 from flask import Flask, request,render_template,jsonify
 from src.pipeline.prediction_pipeline import CustomData,PredictPipeline
-
-from flask import Flask, request, render_template, jsonify
-from src.pipeline.prediction_pipeline import CustomData, PredictPipeline
 import os
 from werkzeug.utils import secure_filename
 
